@@ -5,18 +5,13 @@
 
 <!-- Animated typing with multiple lines -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=100&color=FF6B9D&center=true&multiline=true&width=600&height=100&lines=Data+Scientist+in+the+Making;🎓+Software+Engineering+%40+FCSE;💡+Turning+Coffee+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=100&color=FF6B9D&center=true&multiline=true&width=600&height=100&lines=Data+Scientist+in+the+Making;🎓+Software+Engineering+%40+FCSE;🔥+10%2B+Day+Contribution+Streak;💡+Turning+Coffee+into+Code" alt="Typing SVG" />
 </div>
 
 <!-- Custom metrics dashboard -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MarijaIsailovska&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=Maria's%20Code%20Universe" alt="stats graph"  />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MarijaIsailovska&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=Marija's%20Code%20Universe" alt="stats graph"  />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarijaIsailovska&langs_count=8&count_private=true&layout=compact&theme=dracula&locale=en&hide_border=true&custom_title=Language%20Arsenal" alt="languages graph"  />
-</div>
-
-<!-- Snake eating contributions -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MarijaIsailovska/MarijaIsailovska/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🎯 About Me
@@ -28,7 +23,7 @@
 ### 👋 Hey there! I'm Marija
 
 🎓 **Software Engineering Student** at FCSE  
-🇲🇰 **Based in:** North Macedonia  
+🇲🇰 **Based in:** Macedonia  
 📊 **Passionate about:** Data Science & Machine Learning  
 
 **🚀 Mission:** Turning raw data into meaningful insights and building cool stuff with code!
@@ -96,7 +91,7 @@
 <!-- Interactive contribution graph -->
 <div align="center">
   <h2>🔥 The Grind Never Stops</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarijaIsailovska&theme=neon-palenight&hide_border=true&stroke=DD2727&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarijaIsailovska&theme=radical&hide_border=true&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&background=0D1117" alt="streak stats" width="500"/>
 </div>
 
 <!-- Project showcase with custom cards -->
@@ -116,7 +111,7 @@
 </td>
 <td width="50%">
 <div align="center">
-<a href="https://github.com/MarijaiSailovska/cocktail">
+<a href="https://github.com/MarijaIsailovska/cocktail">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarijaIsailovska&repo=cocktail&theme=neon&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFF&description_lines_count=3" />
 </a>
 </div>
@@ -130,25 +125,20 @@
   <h2>🏆 Achievement Unlocked</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=MarijaIsailovska&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 </div>
-<details>
-<summary>📈 <b>Detailed GitHub Metrics</b></summary>
-<br>
-<div align="center">
-<img src="https://metrics.lecoq.io/MarijaIsailovska?template=classic&config.timezone=Europe%2FSkopje&config.animated=true" alt="Detailed metrics" />
-</div>
-</details>
+
 
 <!-- Live visitor count with cool styling -->
 <div align="center">
   <h2>👥 Profile Visitors</h2>
-  <img src="https://profile-counter.glitch.me/MarijaIsailovska/count.svg" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MarijaIsailovska.MarijaIsailovska&left_color=FF6B9D&right_color=0D1117&left_text=Visitors" alt="Visitor Count" />
+  <br><br>
 </div>
 
 <!-- Contact section with animated buttons -->
 <div align="center">
   <h2>🌐 Let's Connect & Create Magic</h2>
   
-  <a href="mailto:marija.isailovska2003@gmail.com">
+  <a href="mailto:your-marija.isailovska2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/marija-isailovska/">
